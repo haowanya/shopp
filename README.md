@@ -14,6 +14,6 @@ postcss-px2rem     lib-flexible      px2rpm终端适配库
 
 # vue.config.js
     关闭eslint检查模式
-
-# jsconfig.json
     为src/设置别名为@/
+
+    
